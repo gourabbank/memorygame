@@ -27,7 +27,7 @@ class DifficultySelectionScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("Select Difficulty")),
+      appBar: AppBar(title: Text("Alberto")),
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
